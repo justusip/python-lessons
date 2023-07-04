@@ -1,5 +1,5 @@
 import turtle
 
-t = turtle.Turtle()
+turtle.forward(30)
 
-t.forward(30)
+turtle.done()

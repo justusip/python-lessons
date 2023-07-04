@@ -83,3 +83,5 @@ draw_hand(39, -50, 50, 20, "black", "white")
 # Draw Hat
 draw_square(-25, 15, 50, "black", "white")
 draw_rectangle(-50, 15, 100, 10, "black", "white")
+
+turtle.done()

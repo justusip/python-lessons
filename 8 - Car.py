@@ -75,3 +75,5 @@ draw_rectangle(-200, 0, 400, 50, "black", "red")
 draw_windows(-200, -0)
 draw_circle(-100, 0, 20, "black", "black")
 draw_circle(100, 0, 20, "black", "black")
+
+turtle.done()

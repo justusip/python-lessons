@@ -1,6 +1,6 @@
 import turtle
 
-t = turtle.Turtle()
+while turtle.pos() != (30, 0):
+    turtle.forward(1)
 
-while t.pos() != (30, 0):
-    t.forward(1)
+turtle.done()
